@@ -1,0 +1,32 @@
+{
+  "name": "language-teacher",
+  "version": "1.0.2",
+  "description": "Ensino adaptativo de inglês, espanhol e francês com apoio em português brasileiro.",
+  "author": {
+    "name": "Lucas Pinho",
+    "url": "https://github.com/lucaslapinho"
+  },
+  "homepage": "https://github.com/lucaslapinho/language-teacher",
+  "repository": "https://github.com/lucaslapinho/language-teacher",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Language Teacher",
+    "shortDescription": "Inglês, espanhol e francês",
+    "longDescription": "Professores de inglês, espanhol e francês para adultos falantes de português brasileiro. Aulas curtas, conversação, feedback e revisão adaptados às evidências de cada idioma. Funciona por texto; recursos de voz são opcionais e dependem da sessão. Inclui um modelo portátil de progresso sem dados de aprendizagem preenchidos.",
+    "developerName": "Lucas Pinho",
+    "category": "Education & Research",
+    "capabilities": [
+      "Aulas de idiomas",
+      "Conversação e escrita",
+      "Revisão espaçada sugerida"
+    ],
+    "defaultPrompt": [
+      "Quero uma aula de inglês de 15 minutos.",
+      "Vamos conversar em espanhol.",
+      "Quero praticar apresentações em francês."
+    ],
+    "composerIcon": "./assets/language-teacher-icon.png",
+    "logo": "./assets/language-teacher-icon.png",
+    "websiteURL": "https://github.com/lucaslapinho/language-teacher"
+  }
+}

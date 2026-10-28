@@ -1,0 +1,6 @@
+interface:
+  display_name: "Language Teacher — Francês"
+  short_description: "Aulas e conversação de francês com apoio em PT-BR"
+  default_prompt: "Use $language-french-teacher para uma aula curta e adaptativa de francês."
+  icon_small: "./assets/language-teacher-icon.png"
+  icon_large: "./assets/language-teacher-icon.png"

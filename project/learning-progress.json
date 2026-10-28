@@ -1,0 +1,243 @@
+{
+  "schema_version": "1.0",
+  "record_revision": 0,
+  "updated_at": null,
+  "timezone": "America/Sao_Paulo",
+  "active_language": null,
+  "learner": {
+    "native_language": "pt-BR",
+    "preferences_from_request": {
+      "explanation_language": "pt-BR",
+      "interests": [
+        "cotidiano",
+        "viagens",
+        "tecnologia",
+        "cibersegurança",
+        "entrevistas e trabalho"
+      ],
+      "english_reference": "en-US",
+      "correction_timing": "after_turn",
+      "french_interests": [
+        "apresentações pessoais",
+        "vocabulário cotidiano",
+        "pronúncia"
+      ]
+    },
+    "additional_preferences": {}
+  },
+  "languages": {
+    "en": {
+      "settings": {
+        "reference_variant": "en-US",
+        "variant_basis": "implementation_default",
+        "correction_mode": "light"
+      },
+      "skills": {
+        "listening": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "speaking": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "reading": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "writing": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "pronunciation": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "mediation": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        }
+      },
+      "objectives": [],
+      "practiced_content": [],
+      "recurrent_errors": [],
+      "vocabulary": [],
+      "review_items": [],
+      "evidence": [],
+      "sessions": [],
+      "next_step": null,
+      "gamification": {
+        "enabled": false,
+        "points": 0,
+        "events": [],
+        "achievements": []
+      }
+    },
+    "es": {
+      "settings": {
+        "reference_variant": "Latino-americana didática; rotular diferenças regionais",
+        "variant_basis": "implementation_default",
+        "correction_mode": "light"
+      },
+      "skills": {
+        "listening": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "speaking": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "reading": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "writing": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "pronunciation": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "mediation": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        }
+      },
+      "objectives": [],
+      "practiced_content": [],
+      "recurrent_errors": [],
+      "vocabulary": [],
+      "review_items": [],
+      "evidence": [],
+      "sessions": [],
+      "next_step": null,
+      "gamification": {
+        "enabled": false,
+        "points": 0,
+        "events": [],
+        "achievements": []
+      }
+    },
+    "fr": {
+      "settings": {
+        "reference_variant": "França como modelo inicial; aceitar variantes francófonas",
+        "variant_basis": "implementation_default",
+        "correction_mode": "light"
+      },
+      "skills": {
+        "listening": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "speaking": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "reading": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "writing": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "pronunciation": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        },
+        "mediation": {
+          "status": "not_assessed",
+          "estimated_cefr": null,
+          "confidence": null,
+          "evidence_ids": [],
+          "last_assessed_at": null,
+          "limitations": []
+        }
+      },
+      "objectives": [],
+      "practiced_content": [],
+      "recurrent_errors": [],
+      "vocabulary": [],
+      "review_items": [],
+      "evidence": [],
+      "sessions": [],
+      "next_step": null,
+      "gamification": {
+        "enabled": false,
+        "points": 0,
+        "events": [],
+        "achievements": []
+      }
+    }
+  }
+}

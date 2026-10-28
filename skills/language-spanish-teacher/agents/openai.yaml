@@ -1,0 +1,6 @@
+interface:
+  display_name: "Language Teacher — Espanhol"
+  short_description: "Aulas e conversação de espanhol com apoio em PT-BR"
+  default_prompt: "Use $language-spanish-teacher para uma aula curta e adaptativa de espanhol."
+  icon_small: "./assets/language-teacher-icon.png"
+  icon_large: "./assets/language-teacher-icon.png"
